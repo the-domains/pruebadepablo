@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pruebadepablo]]></title>
+        <description><![CDATA[pruebadepablo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 16:43:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pedro Sánchez acepta las condiciones de Ciudadanos y anuncia un acuerdo]]></title>
+            <description><![CDATA[<article><h1>Pedro Sánchez acepta las condiciones de Ciudadanos y anuncia un acuerdo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63f508c7-35f9-4ecc-be0d-4cfa01209006.jpg"></article>]]></description>
+            <link>undefinedpedro-sanchez-acepta-las-condiciones-de-ciudadanos-y-anuncia/index.html</link>
+            <guid isPermaLink="false">f6ac07ec-b9ac-4d7d-9e13-b20964a1192d</guid>
+            <pubDate>Tue, 23 Feb 2016 16:43:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
